@@ -1,0 +1,11 @@
+co\edu\unicauca\facade\access\IOrderRepository.class
+co\edu\unicauca\facade\domain\order\Dish.class
+co\edu\unicauca\facade\app\client\ClientMain.class
+co\edu\unicauca\facade\domain\order\Customer.class
+co\edu\unicauca\facade\domain\order\Order.class
+co\edu\unicauca\facade\domain\order\ProxyClient.class
+co\edu\unicauca\facade\domain\order\Item.class
+co\edu\unicauca\facade\domain\order\IOrderService.class
+co\edu\unicauca\facade\domain\order\Stat.class
+co\edu\unicauca\facade\domain\order\OrderFacade.class
+co\edu\unicauca\facade\domain\order\OrderServiceLogger.class
